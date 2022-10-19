@@ -1,2 +1,2 @@
 # tugas1pw_lab3
-Portfolio Web with Bootstrap
+Simple Responsive portfolio Website using Bootstrap for Tugas1_PW3 submission
